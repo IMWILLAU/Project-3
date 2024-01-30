@@ -1,0 +1,27 @@
+.left-image {
+  width: 200px;
+
+  float: left;
+
+  margin-right: 15px;
+
+}
+
+.right-images {
+
+  width: 150px;
+  margin-right: 5px;
+}
+
+.prediction {
+
+  font-size: 26px;
+}
+/* Remove the default margin and padding from the body. */
+
+
+/* Set map, body, and html to 100% of the screen size. */
+#map{
+  height: 70%;
+  width: 100%
+}
